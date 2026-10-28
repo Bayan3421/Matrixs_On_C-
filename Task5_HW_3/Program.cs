@@ -15,7 +15,7 @@ namespace Task5_HW_3
 
             int result = EvaluateExpression(txt);
 
-            Console.WriteLine($"Ответ: {result}");
+            Console.WriteLine($"Ответ такой: {result}");
         }
 
         public static int EvaluateExpression(string expression)
